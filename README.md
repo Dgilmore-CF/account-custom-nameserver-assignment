@@ -75,7 +75,6 @@ operations. Full zones are inventoried as constraints, not assignment targets.
 
 - [Complete usage and API contract](acns-migration-tool.md)
 - [Secondary DNS cutover guide](secondary-dns-cutover-guide.md)
-- [Blog: ACNS creation, assignment, and existing/new zones](blog-acns-creation-and-assignment.md)
 
 ## Tests
 

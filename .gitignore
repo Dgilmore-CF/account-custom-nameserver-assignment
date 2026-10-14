@@ -7,6 +7,5 @@
 !/acns-config.example.json
 !/acns-migration-tool.md
 !/secondary-dns-cutover-guide.md
-!/blog-acns-creation-and-assignment.md
 !/test_acns_creation.py
 !/test_acns_migrate.py
