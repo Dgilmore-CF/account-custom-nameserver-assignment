@@ -1,0 +1,20 @@
+{
+  "account_id": "REPLACE_WITH_32_CHARACTER_ACCOUNT_ID",
+  "address_zones": ["example.com"],
+  "registrar_domains": ["example.com"],
+  "ttl": 3600,
+  "sets": [
+    {
+      "ns_set": 1,
+      "nameservers": ["ns01.example.com", "ns02.example.com"]
+    },
+    {
+      "ns_set": 2,
+      "nameservers": ["ns03.example.com", "ns04.example.com"]
+    },
+    {
+      "ns_set": 3,
+      "nameservers": ["ns05.example.com", "ns06.example.com"]
+    }
+  ]
+}
